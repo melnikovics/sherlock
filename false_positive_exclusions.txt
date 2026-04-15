@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -24,15 +23,17 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
