@@ -1,17 +1,17 @@
 7Cups
 APClips
-Academia.edu
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 Pornhub
@@ -25,6 +25,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -34,3 +35,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
