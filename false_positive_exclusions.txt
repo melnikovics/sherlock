@@ -9,17 +9,18 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -38,5 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
-xHamster
