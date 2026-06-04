@@ -1,6 +1,7 @@
 7Cups
 APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
@@ -12,7 +13,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Itch.io
 LushStories
 Patched
 Pornhub
@@ -26,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
