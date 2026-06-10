@@ -11,8 +11,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -40,4 +42,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
