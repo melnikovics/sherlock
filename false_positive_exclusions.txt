@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,6 +15,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Rarible
@@ -26,13 +28,13 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
 igromania
 interpals
 mercadolivre
