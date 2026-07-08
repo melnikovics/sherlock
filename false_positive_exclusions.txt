@@ -8,11 +8,13 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
@@ -29,7 +31,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
@@ -43,7 +44,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
