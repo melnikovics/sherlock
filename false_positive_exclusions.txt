@@ -17,9 +17,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -31,9 +29,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
+TikTok
 Trovo
 TryHackMe
 Velomania
