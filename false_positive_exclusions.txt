@@ -5,21 +5,22 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 Instapaper
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -33,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
