@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -21,8 +20,8 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -37,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
