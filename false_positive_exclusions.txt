@@ -22,8 +22,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,10 +36,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
