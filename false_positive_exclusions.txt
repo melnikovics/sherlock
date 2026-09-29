@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -20,7 +21,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 LushStories
 ObservableHQ
@@ -54,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
