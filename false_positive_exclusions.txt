@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -17,6 +18,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
@@ -24,6 +26,7 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -55,3 +58,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
