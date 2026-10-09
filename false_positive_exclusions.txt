@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,11 +8,11 @@ Bandcamp
 Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -23,11 +22,10 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Lobsters
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,7 +44,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
+furaffinity
 hunting
 igromania
 interpals
