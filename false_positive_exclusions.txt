@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -25,6 +24,7 @@ Hubski
 Instapaper
 Itch.io
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -40,7 +40,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
+Trakt
 TryHackMe
 Velomania
 Weblate
