@@ -3,9 +3,11 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -17,18 +19,15 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 LushStories
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -55,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
