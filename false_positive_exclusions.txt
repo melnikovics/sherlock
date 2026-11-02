@@ -5,11 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,14 +22,15 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 LushStories
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -37,6 +38,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -49,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
