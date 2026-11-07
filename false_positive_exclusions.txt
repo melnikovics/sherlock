@@ -5,17 +5,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
@@ -27,17 +28,18 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pychess
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+TnAFlix
 Trakt
 TryHackMe
 Velomania
@@ -53,4 +55,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
