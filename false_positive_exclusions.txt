@@ -1,14 +1,11 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 Cracked Forum
 DeviantArt
@@ -24,9 +21,9 @@ Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -38,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
