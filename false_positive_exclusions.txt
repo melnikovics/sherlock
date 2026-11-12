@@ -1,10 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,6 +16,7 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
+HackerOne
 Hashnode
 Houzz
 Hubski
@@ -50,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
