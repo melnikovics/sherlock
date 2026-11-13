@@ -16,7 +16,6 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerOne
 Hashnode
 Houzz
 Hubski
@@ -31,6 +30,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
