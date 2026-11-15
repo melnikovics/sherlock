@@ -1,24 +1,19 @@
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
+Cracked Forum
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Linktree
 LushStories
 ObservableHQ
 Odysee
@@ -33,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 TryHackMe
 Velomania
@@ -46,6 +40,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
