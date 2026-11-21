@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,6 +16,7 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,10 +33,12 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -43,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
