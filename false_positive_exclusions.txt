@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -11,13 +12,15 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
+LushStories
 ObservableHQ
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -44,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
